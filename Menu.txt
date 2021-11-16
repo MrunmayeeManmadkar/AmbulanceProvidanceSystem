@@ -1,0 +1,11 @@
+
+0.Model Colony
+1.Ideal Colony
+2.FC Road
+3.JM Road
+4.Deccan
+5.Karvenagar
+6.Magarpatta
+7.Hadapsar
+8.Nanded City
+9.Sinhagad Road
